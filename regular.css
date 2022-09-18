@@ -1,0 +1,70 @@
+/* #region Assets */
+:root {
+    /* Typography */
+    --fn-h0: 8rem;
+    --fn-h1: 6.4rem;
+    --fn-h2: 4.8rem;
+    --fn-h3: 3.6rem;
+    --fn-h4: 3rem;
+    --fn-h5: 2.4rem;
+    --fn-h6: 1.8rem;
+    --fn-p1: 1.6rem;
+    --fn-p2: 1.4rem;
+
+    --fn-wgR: 400;
+    --fn-wgMD: 500;
+    --fn-wgSB: 600;
+    --fn-wgB: 700;
+
+    /* Colors */
+    --clr-primary100: #dcc8e6;
+    --clr-primary200: #cdafd7;
+    --clr-primary300: #d29bdc;
+    --clr-primary400: #d787e6;
+    --clr-primary500: #eb7dff;
+    --clr-primary600: #dc64f5;
+    --clr-primary700: #d74bf5;
+    --clr-primary800: #dc32ff;
+    --clr-primary900: #d70fff;
+
+    --clr-secondary100: #96aff0;
+    --clr-secondary200: #6e96f0;
+    --clr-secondary300: #5587f5;
+    --clr-secondary400: #3c78f5;
+    --clr-secondary500: #1e69ff;
+    --clr-secondary600: #0f5fff;
+    --clr-secondary700: #0050f0;
+    --clr-secondary800: #0041c8;
+    --clr-secondary900: #003296;
+
+    --clr-accent100: #e1f0fa;
+    --clr-accent200: #c3d7e6;
+    --clr-accent300: #a0b9cd;
+    --clr-accent400: #82a0b9;
+    --clr-accent500: #6987a5;
+    --clr-accent600: #5a82aa;
+    --clr-accent700: #4678aa;
+    --clr-accent800: #3269a0;
+    --clr-accent900: #1e5a96;
+
+    --clr-black: #000;
+    --clr-grey: #999;
+    --clr-white: #fafafa;
+    --clr-focus: #eb7dff66;
+    --clr-linear1: linear-gradient(90deg, var(--clr-secondary200), var(--clr-primary400));
+
+    /* Borders */
+    --brds-L: 15px;
+    --brds-R: 10px;
+    --brds-S: 5px;
+
+    /* Transitions */
+    --basic: all 250ms;
+    --smooth: all 500ms;
+    --slow: all 500ms cubic-bezier(0.4, 0, 0.4, 0.1);
+
+    /* Cursor */
+    --default: default;
+}
+
+/* #endregion Assets */
